@@ -1,5 +1,5 @@
 {
-    "name": "nlenepveu/skip32",
+    "name": "halalsoft/skip32",
     "description": "Skip32 php implementation - 32-bit block cipher based on Skipjack",
     "license": "UNLICENSE",
     "authors": [
